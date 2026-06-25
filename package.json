@@ -1,0 +1,23 @@
+{
+  "name": "playwright-biosafeapp",
+  "version": "1.0.0",
+  "description": "This repository contains automation testing for the BioSafe App. It includes test cases, scripts, and frameworks designed to ensure the quality and reliability of the application.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krmenugo/Playwright-BioSafeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/krmenugo/Playwright-BioSafeApp/issues"
+  },
+  "homepage": "https://github.com/krmenugo/Playwright-BioSafeApp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^25.9.3"
+  }
+}
