@@ -1,2 +1,2 @@
 # Playwright-BioSafeApp
-Repositorio basado en pruebas automation de BioSafe App
+This repository contains automation testing for the BioSafe App. It includes test cases, scripts, and frameworks designed to ensure the quality and reliability of the application.
